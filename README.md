@@ -1,6 +1,6 @@
 ## Introduction
 ### Hey, I'm Matheus Alves! 👋
-##### I'm a computer science student and I intend to learn more about programming.
+##### I am a back-end web developer in Ruby on Rails.
 
 - 🌱 I’m currently learning Ruby
 - 🤔 I’m looking for help with Ruby, JavaScript, ShellScript, Vim and Tmux
